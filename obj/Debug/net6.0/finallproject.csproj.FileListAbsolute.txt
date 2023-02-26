@@ -1,0 +1,15 @@
+C:\Users\davli\Desktop\finallproject\bin\Debug\net6.0\finallproject.exe
+C:\Users\davli\Desktop\finallproject\bin\Debug\net6.0\finallproject.deps.json
+C:\Users\davli\Desktop\finallproject\bin\Debug\net6.0\finallproject.runtimeconfig.json
+C:\Users\davli\Desktop\finallproject\bin\Debug\net6.0\finallproject.dll
+C:\Users\davli\Desktop\finallproject\bin\Debug\net6.0\finallproject.pdb
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.csproj.AssemblyReference.cache
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.AssemblyInfoInputs.cache
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.AssemblyInfo.cs
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.csproj.CoreCompileInputs.cache
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.dll
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\refint\finallproject.dll
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.pdb
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\finallproject.genruntimeconfig.cache
+C:\Users\davli\Desktop\finallproject\obj\Debug\net6.0\ref\finallproject.dll
