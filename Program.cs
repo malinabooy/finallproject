@@ -23,7 +23,20 @@ string[] FillResultArray(string[] array, int count)
     return result;
 }
 
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (i != array.Length - 1)
+            Console.Write($"{array[i]}, ");
+        else 
+            Console.Write($"{array[i]}.");
+    }
+    Console.WriteLine();
+}
+
 Console.WriteLine("Введите массив элементов через пробел:");
 string[] array = Console.ReadLine()!.Split(' ');
 int count = CountString(array);
 string[] result =  FillResultArray(array,count);
+PrintArray(result);
